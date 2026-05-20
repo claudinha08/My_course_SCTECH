@@ -8,6 +8,6 @@ venda dos produtos e impacto das campanhas de promoção por região usando Pyth
 Clone o repositório e instale as dependências:
 
 ```bash
-git clone https://github.com/claudinha08/My_course_SCTECH/Desafio Extra - SCTECH.git
-cd Desafi Extra - SCTECH
+git clone https://github.com/claudinha08/My_course_SCTECH/Desafio_Extra_SCTECH.ipynb
+cd Desafi_Extra_SCTECH
 pip install -r requirements.txt
