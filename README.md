@@ -1,4 +1,4 @@
-# Desafio Extra - SCTECH
+# Desafio Extra - SCTEC
 Atividades e Desafios - Curso SCTECH
 
 Este projeto faz parte do Desafio Extra do cursos de Introdução ao Data Science promovido pela SCTECH, tem como objetivo analisar
